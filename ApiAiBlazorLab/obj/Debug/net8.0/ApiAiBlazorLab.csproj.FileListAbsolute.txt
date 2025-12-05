@@ -1,0 +1,12 @@
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.AssemblyInfoInputs.cache
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.AssemblyInfo.cs
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.csproj.CoreCompileInputs.cache
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6 sorta\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6 sorta\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6 sorta\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.AssemblyInfoInputs.cache
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6 sorta\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.AssemblyInfo.cs
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6 sorta\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.csproj.CoreCompileInputs.cache
+C:\Users\smith\OneDrive - East Tennessee State University\Fall 2025\CSCI-2910\Labs\Lab 6 sorta\ApiAiBlazorLab\ApiAiBlazorLab\obj\Debug\net8.0\ApiAiBlazorLab.MvcApplicationPartsAssemblyInfo.cache

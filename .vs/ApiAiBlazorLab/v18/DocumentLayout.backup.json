@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC949FC-642F-4993-94EF-62FD186DD020}|ApiAiBlazorLab.Tests\\ApiAiBlazorLab.Tests.csproj|c:\\users\\smith\\onedrive - east tennessee state university\\fall 2025\\csci-2910\\labs\\lab 6 sorta\\apiaiblazorlab\\apiaiblazorlab.tests\\testutilitiestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC949FC-642F-4993-94EF-62FD186DD020}|ApiAiBlazorLab.Tests\\ApiAiBlazorLab.Tests.csproj|solutionrelative:apiaiblazorlab.tests\\testutilitiestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|c:\\users\\smith\\onedrive - east tennessee state university\\fall 2025\\csci-2910\\labs\\lab 6 sorta\\apiaiblazorlab\\apiaiblazorlab\\textutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|solutionrelative:apiaiblazorlab\\textutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC949FC-642F-4993-94EF-62FD186DD020}|ApiAiBlazorLab.Tests\\ApiAiBlazorLab.Tests.csproj|c:\\users\\smith\\onedrive - east tennessee state university\\fall 2025\\csci-2910\\labs\\lab 6 sorta\\apiaiblazorlab\\apiaiblazorlab.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC949FC-642F-4993-94EF-62FD186DD020}|ApiAiBlazorLab.Tests\\ApiAiBlazorLab.Tests.csproj|solutionrelative:apiaiblazorlab.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|c:\\users\\smith\\onedrive - east tennessee state university\\fall 2025\\csci-2910\\labs\\lab 6 sorta\\apiaiblazorlab\\apiaiblazorlab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|solutionrelative:apiaiblazorlab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smith\\AppData\\Roaming\\Microsoft\\UserSecrets\\3683de10-d566-49f5-bb9b-36057fe1dbed\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|c:\\users\\smith\\onedrive - east tennessee state university\\fall 2025\\csci-2910\\labs\\lab 6 sorta\\apiaiblazorlab\\apiaiblazorlab\\components\\pages\\catfacts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|solutionrelative:apiaiblazorlab\\components\\pages\\catfacts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|c:\\users\\smith\\onedrive - east tennessee state university\\fall 2025\\csci-2910\\labs\\lab 6 sorta\\apiaiblazorlab\\apiaiblazorlab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|solutionrelative:apiaiblazorlab\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|c:\\users\\smith\\onedrive - east tennessee state university\\fall 2025\\csci-2910\\labs\\lab 6 sorta\\apiaiblazorlab\\apiaiblazorlab\\components\\pages\\aichat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|solutionrelative:apiaiblazorlab\\components\\pages\\aichat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|c:\\users\\smith\\onedrive - east tennessee state university\\fall 2025\\csci-2910\\labs\\lab 6 sorta\\apiaiblazorlab\\apiaiblazorlab\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|solutionrelative:apiaiblazorlab\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|c:\\users\\smith\\onedrive - east tennessee state university\\fall 2025\\csci-2910\\labs\\lab 6 sorta\\apiaiblazorlab\\apiaiblazorlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|solutionrelative:apiaiblazorlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|c:\\users\\smith\\onedrive - east tennessee state university\\fall 2025\\csci-2910\\labs\\lab 6 sorta\\apiaiblazorlab\\apiaiblazorlab\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1C39EB-AB01-45E7-8F6B-F2C878F82CE6}|ApiAiBlazorLab\\ApiAiBlazorLab.csproj|solutionrelative:apiaiblazorlab\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestUtilitiesTests.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab.Tests\\TestUtilitiesTests.cs",
+              "RelativeDocumentMoniker": "ApiAiBlazorLab.Tests\\TestUtilitiesTests.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab.Tests\\TestUtilitiesTests.cs",
+              "RelativeToolTip": "ApiAiBlazorLab.Tests\\TestUtilitiesTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T15:02:46.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\TextUtilities.cs",
+              "RelativeDocumentMoniker": "ApiAiBlazorLab\\TextUtilities.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\TextUtilities.cs",
+              "RelativeToolTip": "ApiAiBlazorLab\\TextUtilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:52:20.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ApiAiBlazorLab.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ApiAiBlazorLab.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:45:09.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiAiBlazorLab\\appsettings.json",
+              "ToolTip": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\appsettings.json",
+              "RelativeToolTip": "ApiAiBlazorLab\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-23T15:41:02.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ApiAiBlazorLab\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ApiAiBlazorLab\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T15:36:26.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AiService.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Services\\AiService.cs",
+              "RelativeDocumentMoniker": "ApiAiBlazorLab\\Services\\AiService.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Services\\AiService.cs",
+              "RelativeToolTip": "ApiAiBlazorLab\\Services\\AiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:44:31.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatFacts.razor",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Components\\Pages\\CatFacts.razor",
+              "RelativeDocumentMoniker": "ApiAiBlazorLab\\Components\\Pages\\CatFacts.razor",
+              "ToolTip": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Components\\Pages\\CatFacts.razor",
+              "RelativeToolTip": "ApiAiBlazorLab\\Components\\Pages\\CatFacts.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T15:29:16.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AiChat.razor",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Components\\Pages\\AiChat.razor",
+              "RelativeDocumentMoniker": "ApiAiBlazorLab\\Components\\Pages\\AiChat.razor",
+              "ToolTip": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Components\\Pages\\AiChat.razor",
+              "RelativeToolTip": "ApiAiBlazorLab\\Components\\Pages\\AiChat.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T16:05:03.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\smith\\AppData\\Roaming\\Microsoft\\UserSecrets\\3683de10-d566-49f5-bb9b-36057fe1dbed\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\3683de10-d566-49f5-bb9b-36057fe1dbed\\secrets.json",
+              "ToolTip": "C:\\Users\\smith\\AppData\\Roaming\\Microsoft\\UserSecrets\\3683de10-d566-49f5-bb9b-36057fe1dbed\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\3683de10-d566-49f5-bb9b-36057fe1dbed\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-23T15:42:52.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAiBlazorLab\\Program.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Program.cs",
+              "RelativeToolTip": "ApiAiBlazorLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:26:12.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CatFactService.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Services\\CatFactService.cs",
+              "RelativeDocumentMoniker": "ApiAiBlazorLab\\Services\\CatFactService.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive - East Tennessee State University\\Fall 2025\\CSCI-2910\\Labs\\Lab 6 sorta\\ApiAiBlazorLab\\ApiAiBlazorLab\\Services\\CatFactService.cs",
+              "RelativeToolTip": "ApiAiBlazorLab\\Services\\CatFactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:15:00.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
